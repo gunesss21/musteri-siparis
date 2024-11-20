@@ -1,0 +1,14 @@
+/Users/svage/RiderProjects/musterivesiparis/musterivesiparis/bin/Debug/net8.0/musterivesiparis
+/Users/svage/RiderProjects/musterivesiparis/musterivesiparis/bin/Debug/net8.0/musterivesiparis.deps.json
+/Users/svage/RiderProjects/musterivesiparis/musterivesiparis/bin/Debug/net8.0/musterivesiparis.runtimeconfig.json
+/Users/svage/RiderProjects/musterivesiparis/musterivesiparis/bin/Debug/net8.0/musterivesiparis.dll
+/Users/svage/RiderProjects/musterivesiparis/musterivesiparis/bin/Debug/net8.0/musterivesiparis.pdb
+/Users/svage/RiderProjects/musterivesiparis/musterivesiparis/obj/Debug/net8.0/musterivesiparis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svage/RiderProjects/musterivesiparis/musterivesiparis/obj/Debug/net8.0/musterivesiparis.AssemblyInfoInputs.cache
+/Users/svage/RiderProjects/musterivesiparis/musterivesiparis/obj/Debug/net8.0/musterivesiparis.AssemblyInfo.cs
+/Users/svage/RiderProjects/musterivesiparis/musterivesiparis/obj/Debug/net8.0/musterivesiparis.csproj.CoreCompileInputs.cache
+/Users/svage/RiderProjects/musterivesiparis/musterivesiparis/obj/Debug/net8.0/musterivesiparis.dll
+/Users/svage/RiderProjects/musterivesiparis/musterivesiparis/obj/Debug/net8.0/refint/musterivesiparis.dll
+/Users/svage/RiderProjects/musterivesiparis/musterivesiparis/obj/Debug/net8.0/musterivesiparis.pdb
+/Users/svage/RiderProjects/musterivesiparis/musterivesiparis/obj/Debug/net8.0/musterivesiparis.genruntimeconfig.cache
+/Users/svage/RiderProjects/musterivesiparis/musterivesiparis/obj/Debug/net8.0/ref/musterivesiparis.dll
